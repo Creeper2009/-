@@ -1,0 +1,2 @@
+accompile * -o [
+echo "compiled"
